@@ -21,8 +21,17 @@
 🅸  
 🅿  
 🆃🅴🆁🆁🅰🅵🅾🆁🅼 
+```
 
- ```
+# Availability
+
+I'm available for a couple of hours each week ✌🏼
+
+[Work XP](http://tailored.hu/alex_szabo_cv_en_terminal.pdf)
+
+[Twitter](https://twitter.com/itsyourmatealex)
+
+[My best work](https://blocked.lol/)
 <!--
 **kreatemore/kreatemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
