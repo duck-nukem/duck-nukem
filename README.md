@@ -1,4 +1,13 @@
-### Hi there 👋
+```
+              ._ o o
+              \_`-)|_             
+           ,""       \             ___________
+         ,"  ## |   ಠ ಠ.         /             \
+       ," ##   ,-\__    `.     <  What's up? ✨ |
+     ,"       /     `--._;)      \_____________/
+   ,"     ## /
+ ,"   ##    /
+ ```
 
 <!--
 **kreatemore/kreatemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
