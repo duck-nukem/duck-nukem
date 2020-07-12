@@ -1,3 +1,5 @@
+![netscape banner](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/netscape-netcenter-personal-finance-1999.gif) ![msn](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/hotmail-2000.gif)
+
 ```
               ._ o o
               \_`-)|_             
@@ -23,26 +25,10 @@
 🆃🅴🆁🆁🅰🅵🅾🆁🅼 
 ```
 
-# Availability
-
-I'm available for a couple of hours each week ✌🏼
-
 [Work XP](http://tailored.hu/alex_szabo_cv_en_terminal.pdf)
 
 [Twitter](https://twitter.com/itsyourmatealex)
 
 [My best work](https://blocked.lol/)
-<!--
-**kreatemore/kreatemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ie](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/internet-explorer-1996.gif) ![flash](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/get-flash-player-1996.gif) ![qt](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/quicktime-4-0-2000.gif)
