@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 			  .container {
-				background: 'https://raw.githubusercontent.com/kreatemore/kreatemore/master/sparkle-bg.gif'
+				background: url('https://raw.githubusercontent.com/kreatemore/kreatemore/master/sparkle-bg.gif')
 			  }
 			</style>
 			
