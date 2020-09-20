@@ -18,7 +18,7 @@
 
 [Work XP](http://tailored.hu/alex_szabo_cv_en_terminal.pdf)
 
-[Twitter](https://twitter.com/itsyourmatealex)
+[Twitter](https://twitter.com/0xABADDEED)
 
 [My proudest work](https://blocked.lol/)
 
