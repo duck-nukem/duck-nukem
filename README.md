@@ -13,6 +13,8 @@
  
 $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 .
+|____my_alias
+|____links
 |____4fun
 | |____art.ansi
 |____skills
@@ -20,4 +22,11 @@ $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 | |____experienced.js
 | |____beginner.rs
 | |____medium_aws.tf
+
+$ xxd my_alias
+00000000: abad deed
+
+$ cat links
+https://app.hackthebox.eu/profile/21854
+https://blocked.lol/
  ```
