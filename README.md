@@ -29,4 +29,5 @@ $ xxd my_alias
 $ cat links
 https://app.hackthebox.eu/profile/21854
 https://blocked.lol/
+https://google.com/search?q=
  ```
