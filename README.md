@@ -24,7 +24,7 @@ $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 | |____medium_aws.tf
 
 $ xxd my_alias
-00000000: abad deed
+00000000: bec0 01af
 
 $ cat links
 https://app.hackthebox.eu/profile/21854
