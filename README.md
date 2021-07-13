@@ -27,6 +27,7 @@ $ xxd my_alias
 00000000: bec0 01af
 
 $ cat links
+https://stackoverflow.com/users/1775089/alex-szabó
 https://app.hackthebox.eu/profile/21854
 https://blocked.lol/
 
