@@ -15,18 +15,15 @@
  
 $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 .
-|____my_alias
 |____links
 |____4fun
 | |____art.ansi
 |____skills
 | |____experienced.py
 | |____experienced.js
+| |____experienced_docker.yml
 | |____beginner.rs
 | |____medium_aws.tf
-
-$ xxd my_alias
-00000000: bec0 01af
 
 $ cat links
 https://stackoverflow.com/users/1775089/alex-szabó
