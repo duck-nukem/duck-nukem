@@ -6,8 +6,8 @@
 ██   ██ ██████   ██████   ██████     ██        ██      ██ ███████ 
                                                                   
 Latest & Shiny CV: tailored.hu/alex_szabo_CV2021.pdf
-"Fan favourite" CV: tailored.hu/alex_szabo_cv_en_terminal.pdf                                                                  
-
+"Fan favourite" CV: tailored.hu/alex_szabo_cv_en_terminal.pdf
+ 
  
 $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 .
