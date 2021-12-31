@@ -19,13 +19,15 @@ $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 | |____experienced.js
 | |____experienced_docker.yml
 | |____beginner.rs
+| |____beginner.kt
 | |____medium_aws.tf
 
 $ cat links
+https://tailored.hu
+https://blocked.lol
 https://profile.codersrank.io/user/kreatemore
 https://stackoverflow.com/users/1775089/alex-szabó
 https://app.hackthebox.eu/profile/21854
-https://blocked.lol/
 ```
 
 ![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kreatemore)
