@@ -1,6 +1,5 @@
-![virus](https://user-images.githubusercontent.com/9606801/147938028-be7754dd-b9dd-4fdc-9299-b1384742f394.gif)
+![slimebar](https://user-images.githubusercontent.com/9606801/147938662-72d6705c-529e-4dad-ad9d-8d2336a463f0.gif)
 # [🦆 Latest CV ](https://tailored.hu/alex_szabo_CV2021.pdf)  / [🥰 "Fan favourite" CV](https://tailored.hu/alex_szabo_cv_en_terminal.pdf)
-
 ```
  █████  ██████   ██████  ██    ██ ████████     ███    ███ ███████ 
 ██   ██ ██   ██ ██    ██ ██    ██    ██        ████  ████ ██      
@@ -29,6 +28,7 @@ https://profile.codersrank.io/user/kreatemore
 https://stackoverflow.com/users/1775089/alex-szabó
 https://app.hackthebox.eu/profile/21854
 ```
+![virus](https://user-images.githubusercontent.com/9606801/147938028-be7754dd-b9dd-4fdc-9299-b1384742f394.gif)
  
  <a href="https://stackoverflow.com/users/1775089/alex-szab%c3%b3"><img src="https://stackoverflow.com/users/flair/1775089.png?theme=dark" width="208" height="58" alt="profile for Alex Szab&#243; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Alex Szab&#243; at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
@@ -42,3 +42,4 @@ https://app.hackthebox.eu/profile/21854
 <img align=left src="https://user-images.githubusercontent.com/9606801/147938036-946d07b9-6859-46dc-a782-6812b0d0f88b.gif">
 
 ![CodersRank](https://user-images.githubusercontent.com/9606801/147856134-2480c5c0-05f2-4f5f-84d5-40f6d21a90c3.png)
+![finally](https://user-images.githubusercontent.com/9606801/147938668-d22b2ad3-c9d0-4922-866f-44ce9f5d417f.gif)
