@@ -41,5 +41,5 @@ https://app.hackthebox.eu/profile/21854
 <img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856837-29408b11-d010-43a7-a32e-bcb7ec939611.png">
 <img align=left src="https://user-images.githubusercontent.com/9606801/147938036-946d07b9-6859-46dc-a782-6812b0d0f88b.gif">
 
-![CodersRank](https://user-images.githubusercontent.com/9606801/147856134-2480c5c0-05f2-4f5f-84d5-40f6d21a90c3.png)
+![CodersRank](https://user-images.githubusercontent.com/9606801/153393978-1ab814a5-3e79-4559-8a32-b018a4e39a23.png)
 ![finally](https://user-images.githubusercontent.com/9606801/147938668-d22b2ad3-c9d0-4922-866f-44ce9f5d417f.gif)
