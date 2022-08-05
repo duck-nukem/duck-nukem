@@ -31,6 +31,16 @@ https://app.hackthebox.eu/profile/21854
 ![virus](https://user-images.githubusercontent.com/9606801/147938028-be7754dd-b9dd-4fdc-9299-b1384742f394.gif)
  
  <a href="https://stackoverflow.com/users/1775089/alex-szab%c3%b3"><img src="https://stackoverflow.com/users/flair/1775089.png?theme=dark" width="208" height="58" alt="profile for Alex Szab&#243; at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Alex Szab&#243; at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ 
+### Open-source contributions:
+
+* https://github.com/s0md3v/Cloak/pull/1
+* https://github.com/jazzband/django-oauth-toolkit/pull/963
+* https://github.com/nccgroup/ScoutSuite/pull/552
+* https://github.com/getsaf/shallow-render/pull/106
+* https://github.com/getsaf/shallow-render/pull/100
+* https://github.com/ngneat/content-loader/pull/11
+* https://github.com/django-import-export/django-import-export/pull/1481
 
 
 <img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856890-63e30eed-598c-4c08-ac0a-d07617867b3c.png">
