@@ -27,6 +27,7 @@ https://blocked.lol
 https://profile.codersrank.io/user/kreatemore
 https://stackoverflow.com/users/1775089/alex-szabó
 https://app.hackthebox.eu/profile/21854
+https://app.pluralsight.com/profile/szabo-alex
 ```
 ![virus](https://user-images.githubusercontent.com/9606801/147938028-be7754dd-b9dd-4fdc-9299-b1384742f394.gif)
  
