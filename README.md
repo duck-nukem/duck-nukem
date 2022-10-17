@@ -42,14 +42,10 @@ https://app.hackthebox.eu/profile/21854
 * https://github.com/ngneat/content-loader/pull/11
 * https://github.com/django-import-export/django-import-export/pull/1481
 
+<a href="https://app.pluralsight.com/profile/szabo-alex" target="_blank" rel="noreferrer">
+<img width="1288" alt="Screenshot 2022-10-17 at 23 15 44" src="https://user-images.githubusercontent.com/9606801/196285079-528183ff-d0ed-4487-82a7-bf112a38bf3c.png">
+</a>
 
-<img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856890-63e30eed-598c-4c08-ac0a-d07617867b3c.png">
-<img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856838-5bce52dc-e89c-44a8-999f-fcf1b544617e.png">
-<img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856840-87707895-011d-4dff-9052-38824d1dd86d.png">
-<br /><br />
-<img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856842-8463b98d-61b5-4872-9b4a-9ffaf38d2b8e.png">
-<img align=left width=300 src="https://user-images.githubusercontent.com/9606801/147856837-29408b11-d010-43a7-a32e-bcb7ec939611.png">
-<img align=left src="https://user-images.githubusercontent.com/9606801/147938036-946d07b9-6859-46dc-a782-6812b0d0f88b.gif">
 
 ![CodersRank](https://user-images.githubusercontent.com/9606801/153393978-1ab814a5-3e79-4559-8a32-b018a4e39a23.png)
 ![finally](https://user-images.githubusercontent.com/9606801/147938668-d22b2ad3-c9d0-4922-866f-44ce9f5d417f.gif)
