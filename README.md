@@ -19,7 +19,7 @@ $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 | |____experienced_docker.yml
 | |____medium.kt
 | |____medium_aws.tf
-| |____beginner.rs
+| |____medium.rs
 
 $ cat links
 https://tailored.hu
