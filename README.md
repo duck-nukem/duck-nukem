@@ -16,10 +16,11 @@ $ find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 |____skills
 | |____experienced.py
 | |____experienced.js
+| |____experienced.rs
 | |____experienced_docker.yml
 | |____medium.kt
 | |____medium_aws.tf
-| |____medium.rs
+
 
 $ cat links
 https://tailored.hu
