@@ -44,7 +44,7 @@ https://app.pluralsight.com/profile/szabo-alex
 * https://github.com/django-import-export/django-import-export/pull/1481
 
 <a href="https://app.pluralsight.com/profile/szabo-alex" target="_blank" rel="noreferrer">
-<img width="1288" alt="Screenshot 2022-10-17 at 23 15 44" src="https://user-images.githubusercontent.com/9606801/196285079-528183ff-d0ed-4487-82a7-bf112a38bf3c.png">
+<img width="1288" alt="Pluralsight Skill IQs" src="https://github.com/duck-nukem/platform-rs/assets/9606801/07362748-8109-4f44-871c-a3ae182b14d8">
 </a>
 
 
