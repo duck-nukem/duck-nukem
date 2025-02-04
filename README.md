@@ -1,5 +1,5 @@
 ![slimebar](https://user-images.githubusercontent.com/9606801/147938662-72d6705c-529e-4dad-ad9d-8d2336a463f0.gif)
-# [🦆 Latest CV ](https://tailored.hu/alex_szabo_CV2021.pdf)  / [🥰 "Fan favourite" CV](https://tailored.hu/alex_szabo_cv_en_terminal.pdf)
+# [🦆 My Ducking CV ](http://tailored.hu/AlexSzaboCV2025.pdf)
 ```
  █████  ██████   ██████  ██    ██ ████████     ███    ███ ███████ 
 ██   ██ ██   ██ ██    ██ ██    ██    ██        ████  ████ ██      
